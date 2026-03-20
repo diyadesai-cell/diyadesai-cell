@@ -43,19 +43,6 @@ Outside of code, I love exploring new datasets, breaking models (and fixing them
 
 ---
 
-## 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyadesai-cell&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyadesai-cell&theme=midnight-purple&hide_border=true&background=0D1117" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diyadesai-cell&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=diyadesai-cell&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
