@@ -39,7 +39,7 @@ Outside of code, I love exploring new datasets, breaking models (and fixing them
 - ☁️ **AWS certified** across Cloud, Data Engineering & Machine Learning
 - 🎓 B.Sc. Data Science, Navrachana University (2026) · CGPA **8.05/10**
 - 📬 reach me at: **desaidiya041@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/diyadesai-080339311/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/diya-desai-080339311/)
 
 ---
 
