@@ -32,30 +32,49 @@ Outside of code, I love sharing what I learn and building in public 🌱
 
 ### what i work with 🛠️
 
-```python
-skills = {
-    "languages"      : ["Python", "SQL", "R"],
-    "genai & llms"   : ["LangChain", "HuggingFace", "ChromaDB", "RAG", "Groq/Llama", "FastAPI"],
-    "computer vision": ["YOLOv8", "OpenCV", "CNN", "Roboflow"],
-    "ml & forecast"  : ["Scikit-learn", "ARIMA", "Holt-Winters", "Pandas", "NumPy"],
-    "visualization"  : ["Power BI", "Tableau", "Streamlit", "Matplotlib"],
-    "cloud & tools"  : ["AWS", "Git", "GitHub"],
-}
-```
+**🤖 generative ai & llms**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6B46C1?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-f472b6?style=for-the-badge)
+![Groq / Llama 3.3](https://img.shields.io/badge/Groq%20%2F%20Llama%203.3-00A67E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-c084fc?style=for-the-badge)
+
+**👁️ computer vision & deep learning**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-blueviolet?style=for-the-badge)
+![Roboflow](https://img.shields.io/badge/Roboflow-A855F7?style=for-the-badge)
+
+**📊 ml, forecasting & data**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ARIMA](https://img.shields.io/badge/ARIMA%20%2F%20Holt--Winters-0d9488?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**🛠️ languages & tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### github stats 📊
+### connect with me 💌
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diyadesai-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f472b6&text_color=e2e8f0" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyadesai-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diyadesai-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f472b6&currStreakLabel=c084fc"/>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaidiya041@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-desai-080339311/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyadesai-cell)
 
 ---
 
