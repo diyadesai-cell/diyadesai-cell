@@ -10,7 +10,7 @@
 
 ### welcome to my github ✨
 
-I'm **Diya Desai** — a fresh **B.Sc. Data Science graduate** from Navrachana University, India 🇮🇳 (CGPA: 8.16/10)
+I'm **Diya Desai**  a fresh **B.Sc. Data Science graduate** from Navrachana University, India 🇮🇳 (CGPA: 8.16/10)
 
 I build things at the intersection of **AI, data, and real-world problems** — from RAG-powered document assistants to real-time object detection systems. If a machine can learn from it, I'm probably already experimenting with it.
 
